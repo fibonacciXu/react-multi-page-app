@@ -935,10 +935,6 @@ package.json
 
 至此，项目配置完成
 
-## 项目源码
-
-完整代码[react-multi-page-app](https://github.com/zhedh/react-multi-page-app/)，喜欢给个 star
-
 ## 问题&解答
 
 **Cannot read property 'createSnapshot' of undefined**
